@@ -1,6 +1,6 @@
 # QORE
 
-This is the official repository for "[Open Relation Extraction via Query-based Span Prediction](https://easychair.org/publications/preprint_open/lLmV)" by [Huifan Yang](mailto:huifunny@bupt.edu.cn), [Da-Wei Li](mailto:daweilee@microsoft.com), [Zekun Li](mailto:lizekun@bupt.edu.cn), [Donglin	Yang](mailto:iceberg@bupt.edu.cn), [Jinsheng	Qi](mailto:qijs@bupt.edu.cn) and [Bin Wu](mailto:wubin@bupt.edu.cn). 
+This is the official repository for "[Open Relation Extraction via Query-based Span Prediction](https://easychair.org/publications/preprint/lLmV/open)" by [Huifan Yang](mailto:huifunny@bupt.edu.cn), [Da-Wei Li](mailto:daweilee@microsoft.com), [Zekun Li](mailto:lizekun@bupt.edu.cn), [Donglin	Yang](mailto:iceberg@bupt.edu.cn), [Jinsheng	Qi](mailto:qijs@bupt.edu.cn) and [Bin Wu](mailto:wubin@bupt.edu.cn). 
 The [video talk](https://www.youtube.com/watch?v=luU40xu7QAg) and [slide](https://easychair.org/smart-slide/slide/VKrv#) are available.
 Please cite & star this work if it is useful to you.
 
